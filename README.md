@@ -68,9 +68,6 @@ PromoPulse/
 └── README.md
 ```
 
-## Screenshots
-Screenshots will be added after deployment.
-
 ## Future Improvements
 - Email notifications
 - Admin panel
